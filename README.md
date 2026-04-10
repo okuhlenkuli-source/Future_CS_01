@@ -8,7 +8,7 @@ The goal was to identify common web security issues, classify risks, and provide
 ---
 
 ## 🎯 Scope of Assessment
-Target Website: https://example.com  
+Target Website: https://testphp.vulnweb.com  
 Assessment Type: Non-intrusive / Passive Security Testing  
 Testing Methodology: Reconnaissance + Passive Analysis
 
